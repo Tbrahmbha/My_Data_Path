@@ -17,4 +17,9 @@ This is a summary of all of the resources I have used up till this point to lear
 
 <h3>Mathematics<h3>
 
+<h3>Git & Github <h3>
+<ol>
+  <li> Code School Try Git Course: https://www.codeschool.com/courses/try-git <li>
+  <li> <li>
+
 
