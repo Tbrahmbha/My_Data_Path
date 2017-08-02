@@ -1,26 +1,26 @@
 # My_Data_Science_Learning_Path
 This is a summary of all of the resources I have used up till this point to learn Data Science 
 
-<h3>Excel<h3> 
+<h2>Excel<h2> 
 
-<h3>Python<h3> 
+<h2>Python<h2> 
 
-<h3>R<h3> 
+<h2>R<h2> 
 
-<h3>SQL<h3>
-
-
-<h3>Tableau<h3> 
+<h2>SQL<h2>
 
 
-<h3>Statistics<h3> 
+<h2>Tableau<h2> 
 
-<h3>Mathematics<h3>
 
-<h3>Git & Github <h3>
+<h2>Statistics<h2> 
+
+<h2>Mathematics<h2>
+
+<h2>Git & Github <h2>
    <ol>
    
-  [Code School Try Git Course:](https://www.codeschool.com/courses/try-git) 
+  [Code School: Try Git Course](https://www.codeschool.com/courses/try-git) 
    
    <ol>
 
