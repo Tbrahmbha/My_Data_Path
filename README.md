@@ -6,6 +6,7 @@ yet to be added: https://github.com/zipfian/data-science-primer
 
 
 <h2>Python<h2> 
+1. http://pythonforengineers.com/your-first-gui-app-with-python-and-pyqt/ (UF)
 
 <h2>R<h2> 
 
