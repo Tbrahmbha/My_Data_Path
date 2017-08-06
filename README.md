@@ -26,6 +26,7 @@ yet to be added: https://github.com/zipfian/data-science-primer
    1. [Code School: Try Git Course](https://www.codeschool.com/courses/try-git) 
    
    2. [Codecademy: Learn Git](https://www.codecademy.com/learn/all) UF
+   3. [git-the simple guide](http://rogerdudler.github.io/git-guide/) UF
    
    <ol>
    
