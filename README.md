@@ -28,6 +28,7 @@ This course needs to be vetted: http://cs109.github.io/2015/pages/videos.html
    
    2. [Codecademy: Learn Git](https://www.codecademy.com/learn/all) UF
    3. [git-the simple guide](http://rogerdudler.github.io/git-guide/) UF
+   4. [Udemy Git Started](https://www.udemy.com/git-started-with-github/learn/v4/content) UF
    
    <ol>
    
