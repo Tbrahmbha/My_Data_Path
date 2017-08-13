@@ -1,6 +1,7 @@
 # My_Data_Science_Learning_Path
 This is a summary of all of the resources I have used up till this point to learn Data Science 
 yet to be added: https://github.com/zipfian/data-science-primer
+This course needs to be vetted: http://cs109.github.io/2015/pages/videos.html
 
 <h2>Excel<h2> 
 
