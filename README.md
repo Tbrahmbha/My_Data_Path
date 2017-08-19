@@ -8,6 +8,7 @@ This course needs to be vetted: http://cs109.github.io/2015/pages/videos.html
 
 <h2>Python<h2> 
 1. http://pythonforengineers.com/your-first-gui-app-with-python-and-pyqt/ (UF)
+2. http://pythonforengineers.com/introduction-to-pandas/
 
 <h2>R<h2> 
 
