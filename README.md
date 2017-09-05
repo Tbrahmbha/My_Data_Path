@@ -13,7 +13,7 @@ This course needs to be vetted: http://cs109.github.io/2015/pages/videos.html
 
 <h2>R<h2> 
 
-<h2>SQL<h2>
+<h2>SQL & Databases <h2>
 
 
 <h2>Tableau<h2> 
