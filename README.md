@@ -14,7 +14,7 @@ This course needs to be vetted: http://cs109.github.io/2015/pages/videos.html
 <h2>R<h2> 
 
 <h2>SQL & Databases <h2>
-1.[Stanford Database Minicourses](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
+1[Stanford Database Minicourses](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
 
 
 <h2>Tableau<h2> 
