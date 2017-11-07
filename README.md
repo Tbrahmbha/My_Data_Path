@@ -9,6 +9,7 @@ This course needs to be vetted: http://cs109.github.io/2015/pages/videos.html
 
 * [Calling BS](http://callingbullshit.org/syllabus.html) - []
 
+
 <h2>Python<h2>
 
 * [Python For Engineers Blog](http://pythonforengineers.com/introduction-to-pandas/) - []
@@ -16,21 +17,22 @@ This course needs to be vetted: http://cs109.github.io/2015/pages/videos.html
 
 <h2>R<h2> 
 
+
 <h2>SQL & Databases <h2>
    
-   <ol>
   
-   1. [Stanford Database Minicourses](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) - []
-   2. [MySQL for Newbs](https://www.udemy.com/sql-for-newbs/learn/v4/overview) - []
+ 1. [Stanford Database Minicourses](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) - []
+ 2. [MySQL for Newbs](https://www.udemy.com/sql-for-newbs/learn/v4/overview) - []
    
-   <ol>
-   
+
 <h2>Tableau<h2> 
 
 
 <h2>Statistics<h2> 
 
+
 <h2>Mathematics<h2>
+
 
 <h2> Git & Github <h2>
    <ol>
