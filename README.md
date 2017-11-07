@@ -4,7 +4,7 @@ yet to be added: https://github.com/zipfian/data-science-primer
 This course needs to be vetted: http://cs109.github.io/2015/pages/videos.html
 
 <h2>Excel<h2> 
-* [Beginner to Pro in Excel: Financial Modeling and Valuation](https://www.udemy.com/beginner-to-pro-in-excel-financial-modeling-and-valuation/) - []
+* [Beginner to Pro in Excel: Financial Modeling and Valuation](https://www.udemy.com/beginner-to-pro-in-excel-financial-modeling-and-     valuation/)
 
 
 <h2> The Process & Steps In Data Science <h2>
