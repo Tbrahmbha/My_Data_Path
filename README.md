@@ -6,7 +6,8 @@ This course needs to be vetted: http://cs109.github.io/2015/pages/videos.html
 <h2>Excel<h2> 
 
 <h2> The Process & Steps In Data Science <h2>
-1.[Calling BS](http://callingbullshit.org/syllabus.html) - []
+
+* [Calling BS](http://callingbullshit.org/syllabus.html) - []
 
 <h2>Python<h2>
 
@@ -31,7 +32,7 @@ This course needs to be vetted: http://cs109.github.io/2015/pages/videos.html
 
 <h2>Mathematics<h2>
 
-<h2>Git & Github <h2>
+<h2> Git & Github <h2>
    <ol>
    
    1. [Code School: Try Git Course](https://www.codeschool.com/courses/try-git) 
