@@ -6,7 +6,7 @@ This course needs to be vetted: http://cs109.github.io/2015/pages/videos.html
 <h2>Excel<h2> 
 
 <h2> The Process & Steps In Data Science <h2>
-1.[Calling BS](http://callingbullshit.org/syllabus.html)-[]
+1.[Calling BS](http://callingbullshit.org/syllabus.html) - []
 
 <h2>Python<h2>
 1. [Python For Engineers Blog](http://pythonforengineers.com/introduction-to-pandas/)[]
