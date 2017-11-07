@@ -6,11 +6,11 @@ This course needs to be vetted: http://cs109.github.io/2015/pages/videos.html
 <h2>Excel<h2> 
 
 <h2> The Process & Steps In Data Science <h2>
-1. http://callingbullshit.org/syllabus.html -[]
-<h2>Python<h2> 
-1. http://pythonforengineers.com/your-first-gui-app-with-python-and-pyqt/ (UF)
-2. http://pythonforengineers.com/introduction-to-pandas/
-3. http://anandology.com/python-practice-book/ (UF)
+1.[Calling BS](http://callingbullshit.org/syllabus.html)-[]
+
+<h2>Python<h2>
+1. [Python For Engineers Blog](http://pythonforengineers.com/introduction-to-pandas/)[]
+2. [Python Practice Book](http://anandology.com/python-practice-book/)[]
 
 <h2>R<h2> 
 
@@ -29,7 +29,6 @@ This course needs to be vetted: http://cs109.github.io/2015/pages/videos.html
    <ol>
    
    1. [Code School: Try Git Course](https://www.codeschool.com/courses/try-git) 
-   
    2. [Codecademy: Learn Git](https://www.codecademy.com/learn/all)[]
    3. [git-the simple guide](http://rogerdudler.github.io/git-guide/)
    4. [Udemy Git Started](https://www.udemy.com/git-started-with-github/learn/v4/content)[]
