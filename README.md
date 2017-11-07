@@ -4,6 +4,8 @@ yet to be added: https://github.com/zipfian/data-science-primer
 This course needs to be vetted: http://cs109.github.io/2015/pages/videos.html
 
 <h2>Excel<h2> 
+* [Beginner to Pro in Excel: Financial Modeling and Valuation](https://www.udemy.com/beginner-to-pro-in-excel-financial-modeling-and-valuation/learn/v4/overview) - []
+
 
 <h2> The Process & Steps In Data Science <h2>
 
@@ -22,7 +24,7 @@ This course needs to be vetted: http://cs109.github.io/2015/pages/videos.html
    
   
  1. [Stanford Database Minicourses](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) - []
- 2. [MySQL for Newbs](https://github.com/Tbrahmbha/My_Data_Path/tree/master/SQL%20for%20NEWBS%20(Udemy)) - []
+ 2. [MySQL for Newbs](https://github.com/Tbrahmbha/My_Data_Path/tree/master/SQL%20for%20NEWBS%20(Udemy)) - [x]
    
 
 <h2>Tableau<h2> 
