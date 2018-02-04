@@ -18,6 +18,7 @@ This course needs to be vetted: http://cs109.github.io/2015/pages/videos.html
 * [Python For Engineers Blog](http://pythonforengineers.com/introduction-to-pandas/) - []
 * [Python Practice Book](http://anandology.com/python-practice-book/) - []
 * [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) - [x]
+* [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science) - [x]
 
 <h2>R<h2> 
 
